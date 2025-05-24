@@ -11,6 +11,7 @@ It utilizes the following develpoping technologies and stacks:
 
 - [Features](#features)
 - [Status](#status)
+- [Deployment](#deployment)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -33,6 +34,9 @@ It utilizes the following develpoping technologies and stacks:
 
 ## Status
 The project is still under development
+
+### Deployment
+- [Deployed on Github page](https://whizikem.github.io/mediquest/)
 
 ## Getting Started
 
